@@ -13,11 +13,6 @@
    🎓 B.Sc. Statistics graduate(2024) from Modern College, Pune 
    
    🚀 Passionate about uncovering insights, building predictive models, and creating impactful visualizations.
-   
-   📫 Let's Connect
-   
-         📧 Email: gailwarsakshi@gmail.com
-         🌐 LinkedIn: www.linkedin.com/in/sakshi-gailwar
 
 ## 💻 Skills & Technologies
 
