@@ -4,11 +4,7 @@
   
 ## 🎯 About Me
 
-    📚 Currently pursuing Master’s in Data Science and Analytics with AI
-
-         ✅ Data Science and Analytics module completed with 76% (Grade: A)
-
-         🔄 AI specialization currently ongoing
+   📚 Completed certification course: Master's in Data science & Analytics  with AI (2025) from I.T.Vedant Institute Pune
          
    🎓 B.Sc. Statistics graduate(2024) from Modern College, Pune 
    
